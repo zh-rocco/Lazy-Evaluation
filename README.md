@@ -1,5 +1,7 @@
 ## 求值策略
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zh-rocco/lazy-evaluation.svg)](https://greenkeeper.io/)
+
 > 在计算机科学中，求值策略(Evaluation strategy)是确定编程语言中表达式的求值的一组（通常确定性的）规则。重点典型的位于函数或算子上——求值策略定义何时和以何种次序求值给函数的实际参数，什么时候把它们代换入函数，和代换以何种形式发生。 -- [维基百科](https://en.wikipedia.org/wiki/Evaluation_strategy)
 
 ### 严格求值（Strict evaluation）
